@@ -5,7 +5,7 @@
 title = "Hello, Friend"
 +++
 
-# Hello, friend.
+# Hello, friend. ノ ︵ ┻━┻
 
 I’m Miguel, a Security Engineer from Portugal. This is my public *Zettelkasten* where I publish notes and, sometimes, full-on rants about stuff that interests me.
 
