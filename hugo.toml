@@ -21,3 +21,10 @@ ignoreErrors = ["error-disable-taxonomy"]
   images = ["images/share.png"]
   title = "1dnu11"
   hideMadeWithLine = true
+
+[menu]
+  [[menu.main]]
+    identifier = "Zet"
+    name = "Zet"
+    url = "/zet"
+    weight = 0

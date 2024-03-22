@@ -8,7 +8,7 @@ menu = "main"
 Before you question why this blog exists, you can go and read this post [here](https://matthiasott.com/notes/simple-truths-about-personal-websites).
 
 # How to Navigate this Website
-To see an index of my entire Zettelkasten sorted in chronological order, visit [Zet](/Zet).
+To see an index of my entire Zettelkasten sorted in chronological order, visit [Zet](/zet).
 
 Longer articles can be viewed at the [Blog](/blog) page.
 
