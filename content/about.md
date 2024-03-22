@@ -3,7 +3,7 @@ title = "Start Here"
 menu = "main"
 +++
 
-# Hello, friend
+# Welcome, friend
 
 Before you question why this blog exists, you can go and read this post [here](https://matthiasott.com/notes/simple-truths-about-personal-websites).
 
