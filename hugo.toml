@@ -9,6 +9,8 @@ languageCode = 'en-US'
 enableEmoji = true
 enableRobotsTXT = true
 
+favicon = "images/favicon.png"
+
 disableKinds = ["taxonomy"]
 ignoreErrors = ["error-disable-taxonomy"]
 [permalinks]
@@ -17,7 +19,7 @@ ignoreErrors = ["error-disable-taxonomy"]
 
 [params]
   description = "A place with lots of things."
-  favicon = "images/favicon.png"
+  favicon = false
   images = ["images/share.png"]
   title = "1dnu11"
   hideMadeWithLine = true
