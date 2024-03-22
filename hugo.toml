@@ -1,7 +1,7 @@
 baseURL = 'https://idnu11.github.io/'
 theme = 'hugo-bearblog'
 
-title = '1dnu11'
+title = '🕵 1dnu11'
 author = '1dnu11'
 copyright = 'Copyright © 2024, 1dnu11.'
 languageCode = 'en-US'
