@@ -1,0 +1,23 @@
+baseURL = 'https://idnu11.github.io/'
+theme = 'hugo-bearblog'
+
+title = '1dnu11'
+author = '1dnu11'
+copyright = 'Copyright © 2024, 1dnu11.'
+languageCode = 'en-US'
+
+enableEmoji = true
+enableRobotsTXT = true
+
+disableKinds = ["taxonomy"]
+ignoreErrors = ["error-disable-taxonomy"]
+[permalinks]
+  blog = "/:slug/"
+  tags = "/blog/:slug"
+
+[params]
+  description = "A place with lots of things."
+  favicon = "images/favicon.png"
+  images = ["images/share.png"]
+  title = "1dnu11"
+  hideMadeWithLine = true
